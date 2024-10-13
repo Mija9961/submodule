@@ -3,4 +3,5 @@
 	url = https://github.com/Mija9961/submodule.git
 [submodule "cms/dmf"]
 	path = cms/dmf
-	url = https://github.com/Mija9961/submodule.git
+		url = https://github.com/Mija9961/submodule/cms/dmf.git
+
